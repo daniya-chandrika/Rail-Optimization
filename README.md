@@ -1,4 +1,4 @@
-Here’s a ready-to-use README.md file for your SIH project. You can copy this whole block into a file named README.md and push it to GitHub.
+
 
 # 🚆 AI-Powered Train Traffic Control
 
@@ -110,10 +110,5 @@ Project files and implementation code will be pushed in later phases.
 ---
 
 ## 👩‍💻 Team
-**Smart India Hackathon 2025 – [Team Name]**  
+**Smart India Hackathon 2025 – [Hack"Hers"]**  
 *(All-girls team – inspired to bring innovation to railway optimization 🚆✨)*
-
-
----
-
-Do you also want me to sprinkle in badges (like MIT License, GitHub stars, “Made with ❤️ in India”) at the top to make it look more eye-catching for judges?
